@@ -1,0 +1,118 @@
+/**
+ * Student name:
+ * Student ID:
+ */
+grammar BKOOL;
+
+@lexer::header{
+	package bkool.parser;
+	import bkool.utils.*;
+}
+@lexer::members{
+@Override
+public Token emit() {
+    switch (getType()) {
+    case ERROR_CHAR:
+    	Token result = super.emit();
+    	throw new ErrorToken(result.getText());	
+    default:
+        return super.emit();
+    }
+}
+}
+
+@parser::header {
+	package bkool.parser;
+	import bkool.utils.*;
+}
+options{
+	language=Java;
+}
+
+program: 'class' ID LP RP;
+
+//KEYWORD
+BOOLEAN:'boolean';
+BREAK:'break';
+CLASS:'class';
+CONTINUE:'continue';
+DO:'do';
+ELSE:'else';
+EXTENDS:'extends';
+FLOAT:'float';
+IF:'if';
+INT :'int';
+NEW:'new';
+STRING:'string';
+THEN:'then';
+FOR:'for';
+RETURN:'return';
+TRUE:'true';
+FALSE:'false';
+VOID:'void';
+NIL:'nil';
+THIS:'this';
+FINAL:'final';
+STATIC:'static';
+
+//OPERATOR
+ASSIGN:':=';
+ADD:'+';
+MUL:'*';
+DIVINT:'\''; // integer Division
+NOTEQUAD:'!=';
+LT:'<'; // less than
+LE:'<='; // less or equad
+OR:'||';
+NOT:'!';
+OBJECTCREATE:'new';
+SUB:'-';
+DIVFLOAT:'/';
+MODUN:'%';
+EQUAD:'==';
+GT:'>';
+GE:'>=';// greater or equad
+AND:'&&';
+CONCATENATION:'^';
+
+
+//SEPARATOR
+LSB:'['; // left square bracket
+RSB:']';// right square bracket
+LBRACKET:'(';
+RBRACKET:')';
+SEMICOLONE:';';
+COLON:':';
+DOT:'.';
+COMMA:',';
+LP: '{'; //left parenthesis
+RP: '}'; // right parenthesis
+
+
+// INTERGER LITERAL
+INTERGER:[0-9]+;
+
+//FLOAT LITERAL
+FLOATLITERAL : [0-9]+'.'[0-9]*EXP?|[0-9]+'.'[0-9]+EXP?|[0-9]+EXP;
+//FLOATLITERAL : [0-9]+DOT[0-9]+EXP?|DOT[0-9]+EXP?|[0-9]+EXP;
+
+fragment
+EXP: [eE][+-]?[0-9]+;
+
+//BOOLEAN LITERAL
+BOOLEANLITERAL:[true|false];
+
+
+//STRING LITERAL
+STRINGLITERAL: UNTERMINAL'"';
+fragment
+UNTERMINAL:'"' (~["\\\t\r\n] | '\\' (. | EOF))*; //~[ ] nghia la ngoai tru cac phan tu trong dau [ ]
+
+
+WS : [ \t\r\n]+ -> skip ; // skip spaces, tabs, newlines
+ID : [A-Za-z'_']([A-Za-z0-9'_']*)?;   // match lower-case identifiers
+COMMENT:  '/*'(.)*?'*/' ->skip ;
+LINECOMMENT:'%%'~[\r\n]* ->skip;
+
+ERROR_CHAR : . ;
+

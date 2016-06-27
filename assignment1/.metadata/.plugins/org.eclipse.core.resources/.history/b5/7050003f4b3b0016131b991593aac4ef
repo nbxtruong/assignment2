@@ -1,0 +1,142 @@
+/**
+ * Student name:
+ * Student ID:
+ */
+grammar BKOOL;
+
+@lexer::header{
+	package bkool.parser;
+	import bkool.utils.*;
+}
+@lexer::members{
+@Override
+public Token emit() {
+    switch (getType()) {
+    case ERROR_CHAR:
+    	Token result = super.emit();
+    	throw new ErrorToken(result.getText());	
+    default:
+        return super.emit();
+    }
+}
+}
+
+@parser::header {
+	package bkool.parser;
+	import bkool.utils.*;
+}
+options{
+	language=Java;
+}
+
+//Regular expression
+
+program:(declaration)*;
+declaration: variable AND function ;
+variable:type ID(COMMA ID)*SEMICOLONE ;
+type:INT|FLOAT ;
+function:type ID paramdec body;
+paramdec: LP listPM RP;
+listPM: pm ptemp;
+ptemp:SEMICOLONE ptemp;
+pm:type ID (COMMA ID)*;
+body:LBRACKET(element)+ RBRACKET;
+element: variable|statement;
+statement: assignment|callstm||returnstm;
+assignment:ID EQUAD expr SEMICOLONE;
+call: ID LP loe RP;
+callstm:call SEMICOLONE;
+returnt: expr SEMICOLONE;
+returnstm: returnt expr SEMICOLONE;
+loe:expr exprtemp;
+exprtemp:COMMA expr exprtemp;
+expr:expr(ADD|SUB) expr1|expr1;
+expr1: expr1(MUL|DIVINT)expr1|expr2;
+expr2:LP expr RP|operand;
+operand:INT|FLOATLITERAL|ID|call;
+
+//KEYWORD
+BOOLEAN:'boolean';
+BREAK:'break';
+CLASS:'class';
+CONTINUE:'continue';
+DO:'do';
+ELSE:'else';
+EXTENDS:'extends';
+FLOAT:'float';
+IF:'if';
+INT :'int';
+NEW:'new';
+STRING:'string';
+THEN:'then';
+FOR:'for';
+RETURN:'return';
+TRUE:'true';
+FALSE:'false';
+VOID:'void';
+NIL:'nil';
+THIS:'this';
+FINAL:'final';
+STATIC:'static';
+
+//OPERATOR
+ASSIGN:':=';
+ADD:'+';
+MUL:'*';
+DIVINT:'\''; // integer Division
+NOTEQUAD:'!=';
+LT:'<'; // less than
+LE:'<='; // less or equad
+OR:'||';
+NOT:'!';
+OBJECTCREATE:'new';
+SUB:'-';
+DIVFLOAT:'/';
+MODUN:'%';
+EQUAD:'==';
+GT:'>';
+GE:'>=';// greater or equad
+AND:'&&';
+CONCATENATION:'^';
+
+
+//SEPARATOR
+LSB:'['; // left square bracket
+RSB:']';// right square bracket
+LBRACKET:'(';
+RBRACKET:')';
+SEMICOLONE:';';
+COLON:':';
+DOT:'.';
+COMMA:',';
+LP: '{'; //left parenthesis
+RP: '}'; // right parenthesis
+
+
+// INTERGER LITERAL
+INTERGER:[0-9]+;
+
+//FLOAT LITERAL
+FLOATLITERAL : [0-9]+'.'[0-9]*EXP?|[0-9]+'.'[0-9]+EXP?|[0-9]+EXP;
+//FLOATLITERAL : [0-9]+DOT[0-9]+EXP?|DOT[0-9]+EXP?|[0-9]+EXP;
+
+fragment
+EXP: [eE][+-]?[0-9]+;
+
+//BOOLEAN LITERAL
+BOOLEANLITERAL:[true|false];
+
+
+//STRING LITERAL
+STRINGLITERAL: UNTERMINAL'"';
+fragment
+UNTERMINAL:'"' (~["\\\t\r\n] | '\\' (. | EOF))*; //~[ ] nghia la ngoai tru cac phan tu trong dau [ ]
+
+
+WS : [ \t\r\n]+ -> skip ; // skip spaces, tabs, newlines
+ID : [A-Za-z'_']([A-Za-z0-9'_']*)?;   // match lower-case identifiers
+COMMENT:  '/*'(.)*?'*/' ->skip ;
+LINECOMMENT:'%%'~[\r\n]* ->skip;
+
+ERROR_CHAR : . ;
+

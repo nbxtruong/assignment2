@@ -1,0 +1,1180 @@
+2016-05-04 23:05:35,261  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:05:35,263  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:05:36,151  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:05:36,151  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:05:36,306 ERROR [Worker-11] - System.err - SLF4J: Class path contains multiple SLF4J bindings.
+2016-05-04 23:05:36,307 ERROR [Worker-11] - System.err - SLF4J: Found binding in [bundleresource://420.fwk744146638:1/org/slf4j/impl/StaticLoggerBinder.class]
+2016-05-04 23:05:36,307 ERROR [Worker-11] - System.err - SLF4J: Found binding in [bundleresource://420.fwk744146638:2/org/slf4j/impl/StaticLoggerBinder.class]
+2016-05-04 23:05:36,307 ERROR [Worker-11] - System.err - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+2016-05-04 23:05:36,425 ERROR [Worker-11] - System.err - SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+2016-05-04 23:05:36,683  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:05:36,686  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:05:50,047  WARN [Java indexing] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:05:50,048  WARN [Java indexing] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:09,287  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:09,288  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:14,886  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:14,887  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:17,127  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:17,128  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:17,196  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:17,197  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:51,855  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:51,856  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:52,027  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:52,027  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:06:52,064  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:06:52,064  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:01,193  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:01,198  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:01,219  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:01,220  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:01,265  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:01,265  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:07,403  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:07,414  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:07,542  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:07,542  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:40,043  WARN [Worker-3] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:40,045  WARN [Worker-3] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:40,074  WARN [Worker-3] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:40,074  WARN [Worker-3] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:08:53,491  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:08:53,492  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:09:27,322 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-05-04 23:09:27,322 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-05-04 23:09:27,322 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-05-04 23:09:38,346 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-05-04 23:09:38,347 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-05-04 23:09:38,347 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-05-04 23:10:49,168  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-04 23:12:31,175  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:12:31,190  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:12:31,246  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:12:31,246  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:16:24,076 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.template(Parsers.scala:2854)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2884)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3162)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-05-04 23:16:25,383 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.template(Parsers.scala:2854)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2884)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3162)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-05-04 23:16:30,412 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.template(Parsers.scala:2854)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2884)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3162)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-05-04 23:16:39,370 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:961)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:810)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:840)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:706)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:699)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:840)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:326)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:504)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:518)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:329)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2619)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2576)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2461)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2473)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3030)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3025)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3024)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3011)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:2988)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2917)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2924)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.template(Parsers.scala:2854)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2884)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2773)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2712)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2693)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:2980)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2980)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:2973)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:2957)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:2972)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3170)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3162)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3176)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3138)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:742)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1194)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:656)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:562)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-05-04 23:18:41,495  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:18:41,496  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:18:41,529  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:18:41,530  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:18:45,267  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:18:45,267  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:19:09,341  WARN [Worker-3] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:19:09,343  WARN [Worker-3] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:19:09,366  WARN [Worker-3] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:19:09,367  WARN [Worker-3] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:19:10,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:19:10,110  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:19:10,767  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-04 23:19:10,971  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-04 23:19:11,177  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-04 23:20:02,563  WARN [Worker-16] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:20:02,572  WARN [Worker-16] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:20:02,602  WARN [Worker-16] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:20:02,602  WARN [Worker-16] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:21:12,765  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:21:12,766  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:21:12,796  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:21:12,796  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:21:13,014  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:21:13,015  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:21:55,824  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:21:55,825  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:21:55,862  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:21:55,863  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:21:55,894  WARN [Worker-11] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:21:55,894  WARN [Worker-11] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:22:40,709  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:22:40,717  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:22:40,740  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:22:40,740  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-04 23:22:40,777  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-04 23:22:40,777  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 06:51:15,532  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 06:51:15,536  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 06:51:44,366  WARN [Java indexing] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 06:51:44,368  WARN [Java indexing] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:00:30,412  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:00:30,413  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:00:51,963  WARN [Worker-20] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:00:51,963  WARN [Worker-20] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:00:52,836  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:00:53,037  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:00:53,346  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:00:55,338  WARN [Worker-6] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:00:55,339  WARN [Worker-6] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:00:55,425  WARN [Worker-6] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:00:55,425  WARN [Worker-6] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:00:55,814  WARN [Worker-6] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:00:55,815  WARN [Worker-6] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:01:20,190 ERROR [main] - System.err - SLF4J: Class path contains multiple SLF4J bindings.
+2016-05-18 07:01:20,191 ERROR [main] - System.err - SLF4J: Found binding in [bundleresource://420.fwk744146638:1/org/slf4j/impl/StaticLoggerBinder.class]
+2016-05-18 07:01:20,191 ERROR [main] - System.err - SLF4J: Found binding in [bundleresource://420.fwk744146638:2/org/slf4j/impl/StaticLoggerBinder.class]
+2016-05-18 07:01:20,191 ERROR [main] - System.err - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+2016-05-18 07:01:20,278 ERROR [main] - System.err - SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+2016-05-18 07:01:33,070 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+scala.reflect.internal.FatalError: Unknown type: <error>, <error> [class scala.reflect.internal.Types$ErrorType$, class scala.reflect.internal.Types$ErrorType$] TypeRef? false
+	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
+	at scala.tools.nsc.backend.icode.TypeKinds$class.toTypeKind(TypeKinds.scala:401)
+	at scala.tools.nsc.backend.icode.ICodes.toTypeKind(ICodes.scala:19)
+	at org.scalaide.core.internal.jdt.model.ScalaJavaMapper$class.javaDescriptor(ScalaJavaMapper.scala:247)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.javaDescriptor(ScalaPresentationCompiler.scala:61)
+	at org.scalaide.core.internal.jdt.model.ScalaJavaMapper$class.mapParamTypeSignature(ScalaJavaMapper.scala:217)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.mapParamTypeSignature(ScalaPresentationCompiler.scala:61)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$DefOwner$$anonfun$17.apply(ScalaStructureBuilder.scala:674)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$DefOwner$$anonfun$17.apply(ScalaStructureBuilder.scala:674)
+	at scala.collection.immutable.List.map(List.scala:273)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$DefOwner$class.addDef(ScalaStructureBuilder.scala:674)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$Builder.addDef(ScalaStructureBuilder.scala:873)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$DefOwner$class.addDef(ScalaStructureBuilder.scala:659)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$Builder.addDef(ScalaStructureBuilder.scala:873)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser.traverse(ScalaStructureBuilder.scala:942)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser$$anonfun$traverse$1.apply(ScalaStructureBuilder.scala:949)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser$$anonfun$traverse$1.apply(ScalaStructureBuilder.scala:949)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser.traverse(ScalaStructureBuilder.scala:949)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser$$anonfun$traverse$1.apply(ScalaStructureBuilder.scala:949)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser$$anonfun$traverse$1.apply(ScalaStructureBuilder.scala:949)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser.traverse(ScalaStructureBuilder.scala:949)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser$$anonfun$traverse$1.apply(ScalaStructureBuilder.scala:949)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser$$anonfun$traverse$1.apply(ScalaStructureBuilder.scala:949)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser$TreeTraverser.traverse(ScalaStructureBuilder.scala:949)
+	at org.scalaide.core.internal.jdt.model.ScalaStructureBuilder$StructureBuilderTraverser.traverse(ScalaStructureBuilder.scala:902)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$$anonfun$buildStructure$2$$anonfun$1.apply$mcV$sp(ScalaCompilationUnit.scala:127)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$$anonfun$buildStructure$2$$anonfun$1.apply(ScalaCompilationUnit.scala:127)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$$anonfun$buildStructure$2$$anonfun$1.apply(ScalaCompilationUnit.scala:127)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:455)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:429)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2016-05-18 07:05:16,852  WARN [Worker-12] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:16,852  WARN [Worker-12] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:16,884  WARN [Worker-12] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:16,884  WARN [Worker-12] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:19,934  WARN [Worker-21] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:19,935  WARN [Worker-21] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:19,959  WARN [Worker-21] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:19,959  WARN [Worker-21] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:41,927  WARN [Worker-20] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:41,928  WARN [Worker-20] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:41,987  WARN [Worker-20] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:41,988  WARN [Worker-20] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:57,347  WARN [Worker-12] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:57,348  WARN [Worker-12] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:57,355  WARN [Worker-12] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:57,355  WARN [Worker-12] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:57,378  WARN [Worker-12] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:57,378  WARN [Worker-12] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:57,890  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:05:57,890  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:05:58,336  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:05:58,340  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:06:29,584  WARN [Worker-22] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:29,584  WARN [Worker-22] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:29,616  WARN [Worker-22] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:29,616  WARN [Worker-22] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:30,468  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:30,469  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:30,970  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:06:31,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:06:39,593  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:39,594  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:39,904  WARN [Worker-16] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:39,905  WARN [Worker-16] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:39,931  WARN [Worker-16] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:39,932  WARN [Worker-16] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:40,106  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:06:40,106  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:06:40,572  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:06:40,774  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:06:40,975  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:07:20,570  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:20,571  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:07:20,696  WARN [Worker-6] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:20,697  WARN [Worker-6] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:07:20,733  WARN [Worker-6] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:20,733  WARN [Worker-6] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:07:21,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:21,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:07:21,657  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:07:21,883  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:07:22,085  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-05-18 07:07:49,853  WARN [Worker-22] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:49,861  WARN [Worker-22] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:07:49,885  WARN [Worker-22] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:49,886  WARN [Worker-22] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:07:56,418  WARN [Worker-22] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:07:56,419  WARN [Worker-22] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:10:02,133  WARN [Worker-20] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:10:02,134  WARN [Worker-20] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:10:02,168  WARN [Worker-20] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:10:02,168  WARN [Worker-20] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:10:05,823  WARN [Worker-20] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:10:05,823  WARN [Worker-20] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:11:32,772  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:11:32,780  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:11:32,815  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:11:32,815  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-18 07:11:32,870  WARN [Worker-10] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-18 07:11:32,870  WARN [Worker-10] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-24 18:17:19,516  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-24 18:17:19,519  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-24 18:17:21,541  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-24 18:17:21,541  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-24 18:17:21,645  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-24 18:17:21,646  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-24 18:17:25,551  WARN [Worker-3] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-24 18:17:25,559  WARN [Worker-3] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-24 18:17:46,145  WARN [Java indexing] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-24 18:17:46,145  WARN [Java indexing] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-24 18:17:49,507 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+scala.reflect.internal.FatalError: C:\Users\nhphung\Documents\fromSamsungLaptop\Monhoc\ChuongTrinhDich\PUF\2016\Assignments\Assignment2\uploadZip\assignment1\grammar\target\generated-sources\antlr4 does not exist or is not a directory
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.checkDir(MutableSettings.scala:271)
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.add(MutableSettings.scala:261)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:72)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:71)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at xsbt.CachedCompiler0.<init>(CompilerInterface.scala:71)
+	at xsbt.CompilerInterface.newCompiler(CompilerInterface.scala:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at sbt.compiler.AnalyzingCompiler.call(AnalyzingCompiler.scala:101)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:56)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:51)
+	at sbt.compiler.CompilerCache$$anon$2.apply(CompilerCache.scala:47)
+	at sbt.compiler.AnalyzingCompiler.compile(AnalyzingCompiler.scala:39)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply$mcV$sp(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler.timed(MixedAnalyzingCompiler.scala:75)
+	at sbt.compiler.MixedAnalyzingCompiler.compileScala$1(MixedAnalyzingCompiler.scala:50)
+	at sbt.compiler.MixedAnalyzingCompiler.compile(MixedAnalyzingCompiler.scala:65)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:66)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:64)
+	at sbt.inc.IncrementalCommon.cycle(IncrementalCommon.scala:31)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:62)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:61)
+	at sbt.inc.Incremental$.manageClassfiles(Incremental.scala:89)
+	at sbt.inc.Incremental$.compile(Incremental.scala:61)
+	at sbt.inc.IncrementalCompile$.apply(Compile.scala:54)
+	at sbt.compiler.IC$.compileInternal(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$.incrementalCompile(IncrementalCompiler.scala:138)
+	at org.scalaide.core.internal.builder.zinc.CachingCompiler.compile(CachingCompiler.scala:37)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.aggressiveCompile(EclipseSbtBuildManager.scala:213)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:145)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:127)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:85)
+	at org.scalaide.core.internal.project.scopes.BuildScopeUnit.build(BuildScopeUnit.scala:73)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:54)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager.build(SbtScopesBuildManager.scala:51)
+	at org.scalaide.core.internal.project.ScalaProject.build(ScalaProject.scala:603)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:109)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+2016-05-24 18:17:49,700 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-05-24 18:17:49,700 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-05-24 18:17:53,168  WARN [Worker-0] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-24 18:17:53,168  WARN [Worker-0] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:00:11,227  WARN [Worker-0] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:00:11,244  WARN [Worker-0] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:00:22,476  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:00:22,477  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:00:22,895  WARN [Worker-0] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:00:22,895  WARN [Worker-0] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:00:28,845 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-05-25 18:00:28,845 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-05-25 18:00:46,512  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:00:46,513  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:00:46,799  WARN [Worker-4] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:00:46,799  WARN [Worker-4] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:00:47,736 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:10: object antlr is not a member of package org
+2016-05-25 18:00:47,737 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:11: object antlr is not a member of package org
+2016-05-25 18:00:47,739 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:13: object antlr is not a member of package org
+2016-05-25 18:00:47,742 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:6: object antlr is not a member of package org
+2016-05-25 18:00:47,743 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:16: not found: type Lexer
+2016-05-25 18:00:47,749 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:7: object antlr is not a member of package org
+2016-05-25 18:00:47,750 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:84: not found: type CharStream
+2016-05-25 18:00:47,779 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:10: object antlr is not a member of package org
+2016-05-25 18:00:47,780 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:11: object antlr is not a member of package org
+2016-05-25 18:00:47,782 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:13: object antlr is not a member of package org
+2016-05-25 18:00:47,784 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:6: object antlr is not a member of package org
+2016-05-25 18:00:47,785 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:16: not found: type Lexer
+2016-05-25 18:00:47,790 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:7: object antlr is not a member of package org
+2016-05-25 18:00:47,791 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLLexer.java:84: not found: type CharStream
+2016-05-25 18:00:47,851 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLParser.java:6: object antlr is not a member of package org
+2016-05-25 18:00:47,853 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLParser.java:8: object antlr is not a member of package org
+2016-05-25 18:00:47,854 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLParser.java:9: object antlr is not a member of package org
+2016-05-25 18:00:47,856 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLParser.java:10: object antlr is not a member of package org
+2016-05-25 18:00:47,858 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLParser.java:16: not found: type Parser
+2016-05-25 18:00:47,861 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOLParser.java:81: not found: type TokenStream
+2016-05-25 18:00:48,021 ERROR [Worker-4] - SbtBuildReporter - suppressed error in Java file /bkool/antlr4/bkool/parser/BKOOL.java:67: not found: type Vocabulary
+2016-05-25 18:01:15,019  WARN [Worker-5] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:01:15,019  WARN [Worker-5] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:01:15,141  WARN [Worker-4] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:01:15,141  WARN [Worker-4] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:01:59,778  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 18:01:59,778  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 18:02:07,387 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-05-25 18:02:07,387 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-05-25 18:02:07,387 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-05-25 19:20:23,027  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 19:20:23,028  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 19:20:23,130  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 19:20:23,130  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 19:49:18,536  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 19:49:18,553  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-05-25 19:49:18,557  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-05-25 19:49:18,557  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:09:19,629  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:09:19,631  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:09:19,651  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:09:19,651  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:09:54,506 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-15 20:09:54,506 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-15 20:26:37,749 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-15 20:26:37,750 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-15 20:26:40,205  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:26:40,206  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:29:41,363  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:29:41,364  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:34:42,213 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-15 20:34:42,213 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-15 20:34:44,761  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:34:44,762  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:35:21,609  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:35:21,609  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:35:22,224  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:35:22,224  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:35:22,280  WARN [Java indexing] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:35:22,281  WARN [Java indexing] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:35:39,080  WARN [Worker-3] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:35:39,080  WARN [Worker-3] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:35:50,114 ERROR [Worker-5] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-06-15 20:35:50,114 ERROR [Worker-5] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-06-15 20:35:50,114 ERROR [Worker-5] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-06-15 20:39:31,825  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:39:31,825  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:39:32,130  WARN [Worker-2] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:39:32,130  WARN [Worker-2] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:39:32,596  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:39:32,596  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:39:45,546  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:39:45,546  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:39:45,662  WARN [Worker-7] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:39:45,662  WARN [Worker-7] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-15 20:39:46,221  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-15 20:39:46,221  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-20 18:04:18,834  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-20 18:04:18,874  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-20 18:04:18,904  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-20 18:04:18,904  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:33:00,448  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:33:00,449  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:33:00,469  WARN [main] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:33:00,469  WARN [main] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:34:08,522  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:34:08,523  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:34:08,591  WARN [Worker-1] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:34:08,591  WARN [Worker-1] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:34:09,850 ERROR [Worker-1] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-06-26 09:34:09,851 ERROR [Worker-1] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-06-26 09:34:09,851 ERROR [Worker-1] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-06-26 09:35:28,220  WARN [Worker-5] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:35:28,220  WARN [Worker-5] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:35:28,602 ERROR [Worker-5] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-26 09:35:28,602 ERROR [Worker-5] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-26 09:35:54,039  WARN [Worker-0] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:35:54,039  WARN [Worker-0] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:36:04,624  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:36:04,624  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:36:04,950  WARN [Worker-6] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:36:04,950  WARN [Worker-6] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:36:06,146  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:36:06,146  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:36:21,843  WARN [ModalContext] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:36:21,843  WARN [ModalContext] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:36:22,067  WARN [Worker-5] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:36:22,068  WARN [Worker-5] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:36:22,792  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool has platform default sourceLevel.
+2016-06-26 09:36:22,792  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project bkool runs on platform default installation.
+2016-06-26 09:40:39,209 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-26 09:40:39,210 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-26 10:32:19,466  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-26 10:45:32,326 ERROR [Worker-42] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-06-26 10:45:32,326 ERROR [Worker-42] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-06-26 10:45:32,326 ERROR [Worker-42] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-06-26 10:52:20,112 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-26 10:52:20,113 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-26 10:53:00,061  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-26 10:53:05,730 ERROR [Worker-4] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-06-26 10:53:05,730 ERROR [Worker-4] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-06-26 10:53:05,730 ERROR [Worker-4] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-06-27 14:30:39,924 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-27 14:30:39,939 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-27 17:54:25,380 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-27 17:54:25,383 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-27 18:44:19,795 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.xtext.ui.internal.Activator).
+2016-06-27 18:44:19,796 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2016-06-27 18:46:22,048  WARN [ModalContext] - ScalaProject - Project Example has platform default sourceLevel.
+2016-06-27 18:46:22,050  WARN [ModalContext] - ScalaProject - Project Example runs on platform default installation.
+2016-06-27 18:46:22,216  WARN [ModalContext] - ScalaProject - Project Example has platform default sourceLevel.
+2016-06-27 18:46:22,216  WARN [ModalContext] - ScalaProject - Project Example runs on platform default installation.
+2016-06-27 18:46:22,590  WARN [Worker-3] - ScalaProject - Project Example has platform default sourceLevel.
+2016-06-27 18:46:22,591  WARN [Worker-3] - ScalaProject - Project Example runs on platform default installation.
+2016-06-27 18:46:23,444  WARN [Worker-0] - ScalaProject - Project Example has platform default sourceLevel.
+2016-06-27 18:46:23,444  WARN [Worker-0] - ScalaProject - Project Example runs on platform default installation.
+2016-06-27 18:46:25,305 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+scala.reflect.internal.FatalError: C:\Users\optimize\scala\Example\target\generated-sources\antlr4 does not exist or is not a directory
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.checkDir(MutableSettings.scala:271)
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.add(MutableSettings.scala:261)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:72)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:71)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at xsbt.CachedCompiler0.<init>(CompilerInterface.scala:71)
+	at xsbt.CompilerInterface.newCompiler(CompilerInterface.scala:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at sbt.compiler.AnalyzingCompiler.call(AnalyzingCompiler.scala:101)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:56)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:51)
+	at sbt.compiler.CompilerCache$$anon$2.apply(CompilerCache.scala:47)
+	at sbt.compiler.AnalyzingCompiler.compile(AnalyzingCompiler.scala:39)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply$mcV$sp(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler.timed(MixedAnalyzingCompiler.scala:75)
+	at sbt.compiler.MixedAnalyzingCompiler.compileScala$1(MixedAnalyzingCompiler.scala:50)
+	at sbt.compiler.MixedAnalyzingCompiler.compile(MixedAnalyzingCompiler.scala:65)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:66)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:64)
+	at sbt.inc.IncrementalCommon.cycle(IncrementalCommon.scala:31)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:62)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:61)
+	at sbt.inc.Incremental$.manageClassfiles(Incremental.scala:89)
+	at sbt.inc.Incremental$.compile(Incremental.scala:61)
+	at sbt.inc.IncrementalCompile$.apply(Compile.scala:54)
+	at sbt.compiler.IC$.compileInternal(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$.incrementalCompile(IncrementalCompiler.scala:138)
+	at org.scalaide.core.internal.builder.zinc.CachingCompiler.compile(CachingCompiler.scala:37)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.aggressiveCompile(EclipseSbtBuildManager.scala:213)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:145)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:127)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:85)
+	at org.scalaide.core.internal.project.scopes.BuildScopeUnit.build(BuildScopeUnit.scala:73)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:54)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager.build(SbtScopesBuildManager.scala:51)
+	at org.scalaide.core.internal.project.ScalaProject.build(ScalaProject.scala:603)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:109)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+2016-06-27 18:46:41,183 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+scala.reflect.internal.FatalError: C:\github\Example\Example\antlr4 does not exist or is not a directory
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.checkDir(MutableSettings.scala:271)
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.add(MutableSettings.scala:261)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:72)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:71)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at xsbt.CachedCompiler0.<init>(CompilerInterface.scala:71)
+	at xsbt.CompilerInterface.newCompiler(CompilerInterface.scala:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at sbt.compiler.AnalyzingCompiler.call(AnalyzingCompiler.scala:101)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:56)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:51)
+	at sbt.compiler.CompilerCache$$anon$2.apply(CompilerCache.scala:47)
+	at sbt.compiler.AnalyzingCompiler.compile(AnalyzingCompiler.scala:39)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply$mcV$sp(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler.timed(MixedAnalyzingCompiler.scala:75)
+	at sbt.compiler.MixedAnalyzingCompiler.compileScala$1(MixedAnalyzingCompiler.scala:50)
+	at sbt.compiler.MixedAnalyzingCompiler.compile(MixedAnalyzingCompiler.scala:65)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:66)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:64)
+	at sbt.inc.IncrementalCommon.cycle(IncrementalCommon.scala:31)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:62)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:61)
+	at sbt.inc.Incremental$.manageClassfiles(Incremental.scala:89)
+	at sbt.inc.Incremental$.compile(Incremental.scala:61)
+	at sbt.inc.IncrementalCompile$.apply(Compile.scala:54)
+	at sbt.compiler.IC$.compileInternal(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$.incrementalCompile(IncrementalCompiler.scala:138)
+	at org.scalaide.core.internal.builder.zinc.CachingCompiler.compile(CachingCompiler.scala:37)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.aggressiveCompile(EclipseSbtBuildManager.scala:213)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:145)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:127)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:85)
+	at org.scalaide.core.internal.project.scopes.BuildScopeUnit.build(BuildScopeUnit.scala:73)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:54)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:51)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager.build(SbtScopesBuildManager.scala:51)
+	at org.scalaide.core.internal.project.ScalaProject.build(ScalaProject.scala:603)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:109)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+2016-06-27 18:47:10,332 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:9: object antlr is not a member of package org
+2016-06-27 18:47:10,336 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:10: object antlr is not a member of package org
+2016-06-27 18:47:10,338 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:12: object antlr is not a member of package org
+2016-06-27 18:47:10,341 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:5: object antlr is not a member of package org
+2016-06-27 18:47:10,343 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:15: not found: type Lexer
+2016-06-27 18:47:10,350 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:6: object antlr is not a member of package org
+2016-06-27 18:47:10,352 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:51: not found: type CharStream
+2016-06-27 18:47:10,522 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:5: object antlr is not a member of package org
+2016-06-27 18:47:10,522 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:7: object antlr is not a member of package org
+2016-06-27 18:47:10,522 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:8: object antlr is not a member of package org
+2016-06-27 18:47:10,522 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:9: object antlr is not a member of package org
+2016-06-27 18:47:10,522 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:15: not found: type Parser
+2016-06-27 18:47:10,522 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:49: not found: type TokenStream
+2016-06-27 18:47:10,573 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:53: not found: type ParserRuleContext
+2016-06-27 18:47:10,588 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpBaseVisitor.java:6: object antlr is not a member of package org
+2016-06-27 18:47:10,590 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpBaseVisitor.java:16: not found: type AbstractParseTreeVisitor
+2016-06-27 18:47:10,592 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpVisitor.java:6: object antlr is not a member of package org
+2016-06-27 18:47:10,592 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpVisitor.java:15: not found: type ParseTreeVisitor
+2016-06-27 18:47:10,934 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:117: not found: type ParserRuleContext
+2016-06-27 18:47:10,977 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:188: not found: type ParserRuleContext
+2016-06-27 18:47:11,004 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:195: not found: type TerminalNode
+2016-06-27 18:47:11,019 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:269: not found: type ParserRuleContext
+2016-06-27 18:47:11,019 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:276: not found: type TerminalNode
+2016-06-27 18:47:11,040 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:350: not found: type ParserRuleContext
+2016-06-27 18:47:11,040 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:354: not found: type TerminalNode
+2016-06-27 18:47:11,059 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:357: not found: type TerminalNode
+2016-06-27 18:47:11,078 ERROR [Worker-5] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:121: not found: type TerminalNode
+2016-06-27 18:47:15,729 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:9: object antlr is not a member of package org
+2016-06-27 18:47:15,731 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:10: object antlr is not a member of package org
+2016-06-27 18:47:15,733 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:12: object antlr is not a member of package org
+2016-06-27 18:47:15,735 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:5: object antlr is not a member of package org
+2016-06-27 18:47:15,737 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:15: not found: type Lexer
+2016-06-27 18:47:15,740 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:6: object antlr is not a member of package org
+2016-06-27 18:47:15,741 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:51: not found: type CharStream
+2016-06-27 18:47:15,809 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:5: object antlr is not a member of package org
+2016-06-27 18:47:15,811 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:7: object antlr is not a member of package org
+2016-06-27 18:47:15,812 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:8: object antlr is not a member of package org
+2016-06-27 18:47:15,814 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:9: object antlr is not a member of package org
+2016-06-27 18:47:15,815 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:15: not found: type Parser
+2016-06-27 18:47:15,819 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:49: not found: type TokenStream
+2016-06-27 18:47:15,844 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:53: not found: type ParserRuleContext
+2016-06-27 18:47:15,844 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpBaseVisitor.java:6: object antlr is not a member of package org
+2016-06-27 18:47:15,844 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpBaseVisitor.java:16: not found: type AbstractParseTreeVisitor
+2016-06-27 18:47:15,844 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpVisitor.java:6: object antlr is not a member of package org
+2016-06-27 18:47:15,844 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpVisitor.java:15: not found: type ParseTreeVisitor
+2016-06-27 18:47:16,023 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:117: not found: type ParserRuleContext
+2016-06-27 18:47:16,070 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:188: not found: type ParserRuleContext
+2016-06-27 18:47:16,081 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:195: not found: type TerminalNode
+2016-06-27 18:47:16,088 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:269: not found: type ParserRuleContext
+2016-06-27 18:47:16,088 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:276: not found: type TerminalNode
+2016-06-27 18:47:16,104 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:350: not found: type ParserRuleContext
+2016-06-27 18:47:16,106 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:354: not found: type TerminalNode
+2016-06-27 18:47:16,115 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:357: not found: type TerminalNode
+2016-06-27 18:47:16,129 ERROR [Worker-7] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:121: not found: type TerminalNode
+2016-06-27 18:47:35,847 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:9: object antlr is not a member of package org
+2016-06-27 18:47:35,848 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:10: object antlr is not a member of package org
+2016-06-27 18:47:35,850 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:12: object antlr is not a member of package org
+2016-06-27 18:47:35,851 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:5: object antlr is not a member of package org
+2016-06-27 18:47:35,852 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:15: not found: type Lexer
+2016-06-27 18:47:35,855 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:6: object antlr is not a member of package org
+2016-06-27 18:47:35,856 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpLexer.java:51: not found: type CharStream
+2016-06-27 18:47:35,915 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:5: object antlr is not a member of package org
+2016-06-27 18:47:35,916 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:7: object antlr is not a member of package org
+2016-06-27 18:47:35,918 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:8: object antlr is not a member of package org
+2016-06-27 18:47:35,919 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:9: object antlr is not a member of package org
+2016-06-27 18:47:35,920 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:15: not found: type Parser
+2016-06-27 18:47:35,924 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:49: not found: type TokenStream
+2016-06-27 18:47:35,946 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:53: not found: type ParserRuleContext
+2016-06-27 18:47:35,949 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpBaseVisitor.java:6: object antlr is not a member of package org
+2016-06-27 18:47:35,950 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpBaseVisitor.java:16: not found: type AbstractParseTreeVisitor
+2016-06-27 18:47:35,951 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpVisitor.java:6: object antlr is not a member of package org
+2016-06-27 18:47:35,952 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpVisitor.java:15: not found: type ParseTreeVisitor
+2016-06-27 18:47:36,100 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:117: not found: type ParserRuleContext
+2016-06-27 18:47:36,122 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:188: not found: type ParserRuleContext
+2016-06-27 18:47:36,133 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:195: not found: type TerminalNode
+2016-06-27 18:47:36,142 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:269: not found: type ParserRuleContext
+2016-06-27 18:47:36,144 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:276: not found: type TerminalNode
+2016-06-27 18:47:36,152 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:350: not found: type ParserRuleContext
+2016-06-27 18:47:36,153 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:354: not found: type TerminalNode
+2016-06-27 18:47:36,160 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:357: not found: type TerminalNode
+2016-06-27 18:47:36,171 ERROR [Worker-0] - SbtBuildReporter - suppressed error in Java file /Example/target/generated-sources/antlr4/exp/parser/ExpParser.java:121: not found: type TerminalNode
+2016-06-27 18:50:13,264 ERROR [Worker-8] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-06-27 18:50:13,265 ERROR [Worker-8] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-06-27 18:50:13,265 ERROR [Worker-8] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-06-27 18:56:36,881  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 895
+2016-06-27 18:56:36,882  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 895
+2016-06-27 18:56:46,297  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:46,298  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:47,601  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:47,601  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:52,031  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:52,031  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:54,225  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:54,225  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:55,312  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:55,312  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:56,697  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 18:56:56,699  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 861
+2016-06-27 19:14:40,523  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:14:40,557  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:14:40,754  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:14:40,764  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:14:40,963  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:14:40,980  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:15:11,637  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:15:11,841  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:15:12,042  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:23:17,828 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-06-27 19:23:17,829 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-06-27 19:23:17,829 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-06-27 19:25:20,509  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:25:20,515  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:25:20,515  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:25:20,719  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:25:20,719  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:25:20,920  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:25:20,925  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,264  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,264  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,284  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,466  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,468  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,498  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,713  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,714  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:31:28,716  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 19:33:30,770 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:963)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:812)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:842)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:331)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2670)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2627)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2512)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2524)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3082)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3068)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2974)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2981)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.template(Parsers.scala:2911)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2941)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2830)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2766)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2747)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3029)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3227)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3219)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3233)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:658)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:564)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-06-27 19:33:30,770 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:963)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:812)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$scopeMembers(Global.scala:1028)
+	at scala.tools.nsc.interactive.Global$$anonfun$getScopeCompletion$2.apply(Global.scala:985)
+	at scala.tools.nsc.interactive.Global$$anonfun$getScopeCompletion$2.apply(Global.scala:985)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getScopeCompletion(Global.scala:985)
+	at scala.tools.nsc.interactive.CompilerControl$AskScopeCompletionItem.apply$mcV$sp(CompilerControl.scala:357)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:331)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2670)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2627)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2512)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2524)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3082)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3068)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2974)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2981)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.template(Parsers.scala:2911)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2941)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2830)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2766)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2747)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3029)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3227)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3219)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3233)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:658)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:564)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2016-06-27 20:03:48,872  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 20:03:48,901  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 20:03:49,078  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 20:03:49,114  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 20:03:49,286  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-06-27 20:03:49,315  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

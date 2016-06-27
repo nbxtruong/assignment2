@@ -1,0 +1,24 @@
+package exp.utils
+
+/**
+ * @author nhphung
+ */
+trait Visitor {
+  def visit(ast: AST, c: Any): Any = ast.accept(this, c)
+  def visitProg(ast: Prog, c: Any): Any
+  def visitBinExp(ast: BinExp, c: Any): Any
+  def visitId(ast: Id, c: Any): Any
+  def visitNum(ast: Num, c: Any): Any
+  def visitFloat(ast: Float, c: Any): Any
+  def visitIfStm(ast: IfStm, c: Any): Any
+  def visitAssign(ast: Assign, c: Any): Any
+}
+
+class BaseVisitor extends Visitor {
+  def visitProg(ast: Prog, c: Any): Any = null
+  def visitBinExp(ast: BinExp, c: Any): Any = null
+  def visitId(ast: Id, c: Any): Any = null
+  def visitNum(ast: Num, c: Any): Any = null
+  def visitIfStm(ast: IfStm, c: Any): Any = null
+  def visitAssign(ast: Assign, c: Any): Any = null
+}

@@ -1,0 +1,149 @@
+/**
+ * Student name:
+ * Student ID:
+ */
+grammar BKOOL;
+
+@lexer::header{
+	package bkool.parser;
+	import bkool.utils.*;
+}
+@lexer::members{
+@Override
+public Token emit() {
+    switch (getType()) {
+    case ERROR_CHAR:
+    	Token result = super.emit();
+    	throw new ErrorToken(result.getText());	
+    default:
+        return super.emit();
+    }
+}
+}
+
+@parser::header {
+	package bkool.parser;
+	import bkool.utils.*;
+}
+options{
+	language=Java;
+}
+
+program : class_declaration+ EOF;
+class_declaration : CLASS  ID  (EXTENDS ID)? LP list_members RP;
+list_members: (member)* ;
+member: (STATIC)? attribute (method_declaration)?;
+attribute:mutable|immutable;
+mutable:varible_declaration;
+immutable:constant_declaration;
+constant_declaration: (STATIC)? FINAL constant_type ID ASSIGN expression SEMICOLONE;
+constant_type:INT|FLOAT|STRING|BOOLEAN;
+varible_declaration:(STATIC)? list_id COLON varible_type SEMICOLONE;
+list_id:ID (COMMA ID)*;
+varible_type:constant_type|array_type|ID;
+method_normal: RETURN method_type (LBRACKET STATIC RBRACKET)? ID list_parameters block_statement;
+list_parameters: LBRACKET (parameter (COMMA parameter)*)? RBRACKET;
+parameter:ID (COMMA ID)* COLON constant_type;
+method_type:constant_type;
+method_constructor:ID list_parameters block_statement;
+method_declaration: method_normal|method_constructor|method_void;
+method_void: VOID ID list_parameters block_statement;
+array_type:(constant_type|ID)  LBRACKET INTERGER RBRACKET;
+block_statement:LBRACKET list_statement RBRACKET;
+list_statement:(statement)+;
+statement:varible_declaration|constant_declaration;
+expression:  relational_expression | boolean_expression | arithmetic_expression;
+arithmetic_expression: (ADD | SUB) arithmetic_expression | arithmetic_expression_op1 ;
+arithmetic_expression_op1: arithmetic_expression_op1 ('*' | '/' | '\\' | '%') arithmetic_expression_op2 | arithmetic_expression_op2;
+arithmetic_expression_op2: arithmetic_expression_op2 ('+' | '-') last_expression | last_expression;
+boolean_expression:NOT boolean_expression|boolean_expression_op1;
+boolean_expression_op1:boolean_expression_op1 (AND|OR) last_expression|last_expression;
+relational_expression: last_expression RELATION_OPERATOR last_expression;
+last_expression: INT|FLOAT|BOOLEAN| LP expression RP| ID;
+
+//KEYWORD
+BOOLEAN:'boolean';
+BREAK:'break';
+CLASS:'class';
+CONTINUE:'continue';
+DO:'do';
+ELSE:'else';
+EXTENDS:'extends';
+FLOAT:'float';
+IF:'if';
+INT :'int';
+NEW:'new';
+STRING:'string';
+THEN:'then';
+FOR:'for';
+RETURN:'return';
+TRUE:'true';
+FALSE:'false';
+VOID:'void';
+NIL:'nil';
+THIS:'this';
+FINAL:'final';
+STATIC:'static';
+
+//OPERATOR
+RELATION_OPERATOR:EQUAD|NOTEQUAD|GT|LT|LE|GE;
+ASSIGN:':=';
+ADD:'+';
+MUL:'*';
+DIVINT:'\''; // integer Division
+NOTEQUAD:'!=';
+LT:'<'; // less than
+LE:'<='; // less or equad
+OR:'||';
+NOT:'!';
+OBJECTCREATE:'new';
+SUB:'-';
+DIVFLOAT:'/';
+MODUN:'%';
+EQUAD:'==';
+GT:'>';
+GE:'>=';// greater or equad
+AND:'&&';
+CONCATENATION:'^';
+
+
+//SEPARATOR
+LSB:'['; // left square bracket
+RSB:']';// right square bracket
+LBRACKET:'(';
+RBRACKET:')';
+SEMICOLONE:';';
+COLON:':';
+DOT:'.';
+COMMA:',';
+LP: '{'; //left parenthesis
+RP: '}'; // right parenthesis
+
+
+// INTERGER LITERAL
+INTERGER:[0-9]+;
+
+//FLOAT LITERAL
+FLOATLITERAL : [0-9]+'.'[0-9]*EXP?|[0-9]+'.'[0-9]+EXP?|[0-9]+EXP;
+//FLOATLITERAL : [0-9]+DOT[0-9]+EXP?|DOT[0-9]+EXP?|[0-9]+EXP;
+
+fragment
+EXP: [eE][+-]?[0-9]+;
+
+//BOOLEAN LITERAL
+BOOLEANLITERAL:[true|false];
+
+
+//STRING LITERAL
+STRINGLITERAL: UNTERMINAL'"';
+fragment
+UNTERMINAL:'"' (~["\\\t\r\n] | '\\' (. | EOF))*; //~[ ] nghia la ngoai tru cac phan tu trong dau [ ]
+
+
+WS : [ \t\r\n]+ -> skip ; // skip spaces, tabs, newlines
+ID : [A-Za-z'_']([A-Za-z0-9'_']*)?;   // match lower-case identifiers
+COMMENT:  '/*'(.)*?'*/' ->skip ;
+LINECOMMENT:'%%'~[\r\n]* ->skip;
+
+ERROR_CHAR : . ;
+
